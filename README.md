@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+The program is given a certain number of weeks, a certain number of classes, a cost of tuition, a number of classes per week. From this, it determines the cost per week and the cost per class. In part B, the program is given a set of european countries and is able to randomly choose one.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+None
 
 ## REFERENCES:
- < List any outside resources used >
+Random was imported
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None
